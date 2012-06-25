@@ -12,3 +12,9 @@ I assume that you have FreeGlut and GLEW installed.
 http://freeglut.sourceforge.net/ (MSVC version: http://www.transmissionzero.co.uk/software/freeglut-devel/ )
 
 http://glew.sourceforge.net/
+
+## Comments
+
+For comments on the source code, please use the following blog post:
+
+http://blog.nobel-joergensen.com/2012/06/25/opengl-3-2-glsl-1-50-a-simple-example-using-visual-studio-2010-freeglut-and-glew/
