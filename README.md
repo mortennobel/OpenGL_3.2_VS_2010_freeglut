@@ -1,4 +1,4 @@
-A simple OpenGL 3.2 example using MSVC 2010, FreeGlut and GLEW
+A simple OpenGL 3.2 and GLSL 1.50 example using Microsoft Visual Studio 2010, FreeGlut and GLEW
 ====================================
 
 ## Description
