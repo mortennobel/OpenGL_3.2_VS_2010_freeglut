@@ -9,6 +9,6 @@ The world seems to need another simple OpenGL example running on Microsoft Visua
 
 I assume that you have FreeGlut and GLEW installed.
 
-http://freeglut.sourceforge.net/
+http://freeglut.sourceforge.net/ (MSVC version: http://www.transmissionzero.co.uk/software/freeglut-devel/ )
 
 http://glew.sourceforge.net/
