@@ -115,6 +115,8 @@ int main(int argc, char* argv[]) {
 	glutIdleFunc(animate);
 	glutReshapeWindow(WINDOW_WIDTH, WINDOW_HEIGHT);
 
+	glewExperimental = GL_TRUE;  // Added because of http://openglbook.com/glgenvertexarrays-access-violationsegfault-with-glew/
+
 	GLint GlewInitResult = glewInit();
 	if (GlewInitResult != GLEW_OK) {
 		printf("ERROR: %s\n", glewGetErrorString(GlewInitResult));
